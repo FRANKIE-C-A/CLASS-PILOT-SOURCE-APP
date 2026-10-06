@@ -1,7 +1,7 @@
 {
-    "url":  "https://frankie-c-a.github.io/CLASS-PILOT-SOURCE-APP/classpilot.apk",
-    "code":  242,
-    "version":  "2.1.0",
-    "releasedAt":  "2026-10-06T05:55:46.3273282Z",
-    "notes":  "2.0.0"
+  "version": "2.1.0",
+  "code": 242,
+  "url": "https://frankie-c-a.github.io/CLASS-PILOT-SOURCE-APP/classpilot.apk",
+  "notes": "Release 2.1.0",
+  "releasedAt": "2026-10-06T14:02:31Z"
 }
